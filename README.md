@@ -1,5 +1,5 @@
 # convevol1dZelditchEtAl2017
-Univariate adaptation of Zelditch at al. (2017)'s version of the R package convevol
+Univariate implementation of Zelditch et al. (2017)'s version of the R package convevol
 
 <a href="https://zenodo.org/badge/latestdoi/468447099"><img src="https://zenodo.org/badge/468447099.svg" alt="DOI"></a>
 
